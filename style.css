@@ -14,8 +14,8 @@ body{
 img{
     width: 100%;
     display: block;
-    width:426px;
-    height:426px;
+    
+    height:430px;
     object-fit: cover;
 }
 .center{
